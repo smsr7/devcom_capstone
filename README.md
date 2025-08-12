@@ -28,7 +28,7 @@ python mapGenerator.py
 ## Running the Agent
 Run the reinforcement learning agent with:
 ```
-python runRL.py
+python RL_new.py
 ```
 
 ### Select desired experimental configurations by modifying the main loop in `RL_new.py`:
