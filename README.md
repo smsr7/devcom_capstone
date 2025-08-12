@@ -52,3 +52,17 @@ python RL_new.py
 
 - **`ugv()` function:**  
   Directly routes the UGV to the goal.
+
+## Results
+Following the completion of training, or routing methods, a `out.csv` file is created containing the individual moves of the UGV, UAV, and action. An example of this data is below:
+`action,start_uav,start_ugv,start_scanner,end_uav,end_ugv,end_scanner
+"[4, 1, 5]","(10, 10)","(10, 10)","(10, 10)","(10, 11)","(10, 10)","(9, 11)"`
+
+Using the functions in `render.ipynb`, visualizations can be created of the run, actions, and other various aspects. 
+
+Beyond visualizations, `eval_metrics.csv` is created following a run giving the last action, number of steps, when the UGV started moving, number of mines encountered, time, reward, average estimate of traveled path, and total timesteps:
+
+`actions,iterations,ugv_start,mines_encountered,total_time,reward,path_confidence,eval,timesteps
+[0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0.],352,301,15,2812,156.81769580378466,48.3901598003762,True,0`
+
+These can be visualized over time throughout training, or against baseline models in render.ipynb.
