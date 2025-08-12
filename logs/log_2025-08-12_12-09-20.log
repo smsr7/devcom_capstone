@@ -1,0 +1,234 @@
+2025-08-12 12:09:20,908 UAV moved to passage (5, 6). Estimates can now be obtained for edge (5, 5), (5, 6).
+2025-08-12 12:09:20,908 AI queried for edge (5, 5), (5, 6). Estimate: 0.10417947326597941
+2025-08-12 12:09:20,908 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:20,935 Scanner UAV moved to passage (4, 6). High-AI estimate available for edge (4, 6), (5, 5).
+2025-08-12 12:09:20,935 Scanner AI queried for edge (4, 6), (5, 5). High estimate: None
+2025-08-12 12:09:20,935 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,000 UAV moved to passage (5, 7). Estimates can now be obtained for edge (5, 6), (5, 7).
+2025-08-12 12:09:21,000 AI queried for edge (5, 6), (5, 7). Estimate: 0.20292005877304956
+2025-08-12 12:09:21,000 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,026 Scanner UAV moved to passage (4, 7). High-AI estimate available for edge (4, 6), (4, 7).
+2025-08-12 12:09:21,026 Scanner AI queried for edge (4, 6), (4, 7). High estimate: None
+2025-08-12 12:09:21,026 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,091 UAV moved to passage (6, 7). Estimates can now be obtained for edge (5, 7), (6, 7).
+2025-08-12 12:09:21,091 AI queried for edge (5, 7), (6, 7). Estimate: 0.2165708255462929
+2025-08-12 12:09:21,091 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,117 Scanner UAV moved to passage (5, 7). High-AI estimate available for edge (4, 7), (5, 7).
+2025-08-12 12:09:21,117 Scanner AI queried for edge (4, 7), (5, 7). High estimate: None
+2025-08-12 12:09:21,117 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,181 UAV moved to passage (7, 7). Estimates can now be obtained for edge (6, 7), (7, 7).
+2025-08-12 12:09:21,181 AI queried for edge (6, 7), (7, 7). Estimate: 0.6861886919177643
+2025-08-12 12:09:21,181 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,206 Scanner UAV moved to passage (6, 7). High-AI estimate available for edge (5, 7), (6, 7).
+2025-08-12 12:09:21,206 Scanner AI queried for edge (5, 7), (6, 7). High estimate: None
+2025-08-12 12:09:21,206 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,271 UAV moved to passage (7, 8). Estimates can now be obtained for edge (7, 7), (7, 8).
+2025-08-12 12:09:21,271 AI queried for edge (7, 7), (7, 8). Estimate: 0.21915225869163296
+2025-08-12 12:09:21,271 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,297 Scanner UAV moved to passage (6, 8). High-AI estimate available for edge (6, 7), (6, 8).
+2025-08-12 12:09:21,297 Scanner AI queried for edge (6, 7), (6, 8). High estimate: None
+2025-08-12 12:09:21,297 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,362 UAV moved to passage (8, 8). Estimates can now be obtained for edge (7, 8), (8, 8).
+2025-08-12 12:09:21,362 AI queried for edge (7, 8), (8, 8). Estimate: 0.1720318547938524
+2025-08-12 12:09:21,362 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,389 Scanner UAV moved to passage (6, 9). High-AI estimate available for edge (6, 8), (6, 9).
+2025-08-12 12:09:21,389 Scanner AI queried for edge (6, 8), (6, 9). High estimate: None
+2025-08-12 12:09:21,389 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,454 UAV moved to passage (9, 8). Estimates can now be obtained for edge (8, 8), (9, 8).
+2025-08-12 12:09:21,454 AI queried for edge (8, 8), (9, 8). Estimate: 0.7559892220094562
+2025-08-12 12:09:21,454 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,479 Scanner UAV moved to passage (7, 9). High-AI estimate available for edge (6, 9), (7, 9).
+2025-08-12 12:09:21,479 Scanner AI queried for edge (6, 9), (7, 9). High estimate: None
+2025-08-12 12:09:21,479 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,544 UAV moved to passage (9, 9). Estimates can now be obtained for edge (9, 8), (9, 9).
+2025-08-12 12:09:21,544 AI queried for edge (9, 8), (9, 9). Estimate: 0.34745406203300666
+2025-08-12 12:09:21,544 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,570 Scanner UAV moved to passage (7, 10). High-AI estimate available for edge (7, 9), (7, 10).
+2025-08-12 12:09:21,570 Scanner AI queried for edge (7, 9), (7, 10). High estimate: None
+2025-08-12 12:09:21,570 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,635 UAV moved to passage (10, 9). Estimates can now be obtained for edge (9, 9), (10, 9).
+2025-08-12 12:09:21,635 AI queried for edge (9, 9), (10, 9). Estimate: 0.1844220694581861
+2025-08-12 12:09:21,635 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,660 Scanner UAV moved to passage (8, 10). High-AI estimate available for edge (7, 10), (8, 10).
+2025-08-12 12:09:21,660 Scanner AI queried for edge (7, 10), (8, 10). High estimate: None
+2025-08-12 12:09:21,660 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,727 UAV moved to passage (10, 10). Estimates can now be obtained for edge (10, 9), (10, 10).
+2025-08-12 12:09:21,727 AI queried for edge (10, 9), (10, 10). Estimate: 0.11426676188921446
+2025-08-12 12:09:21,727 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,755 Scanner UAV moved to passage (8, 11). High-AI estimate available for edge (8, 10), (8, 11).
+2025-08-12 12:09:21,755 Scanner AI queried for edge (8, 10), (8, 11). High estimate: None
+2025-08-12 12:09:21,755 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,821 UAV moved to passage (11, 10). Estimates can now be obtained for edge (10, 10), (11, 10).
+2025-08-12 12:09:21,821 AI queried for edge (10, 10), (11, 10). Estimate: 0.5953164841327858
+2025-08-12 12:09:21,821 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,846 Scanner UAV moved to passage (8, 12). High-AI estimate available for edge (8, 11), (8, 12).
+2025-08-12 12:09:21,846 Scanner AI queried for edge (8, 11), (8, 12). High estimate: None
+2025-08-12 12:09:21,846 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,912 UAV moved to passage (11, 11). Estimates can now be obtained for edge (11, 10), (11, 11).
+2025-08-12 12:09:21,912 AI queried for edge (11, 10), (11, 11). Estimate: 0.28020614439163505
+2025-08-12 12:09:21,912 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:21,937 Scanner UAV moved to passage (9, 12). High-AI estimate available for edge (8, 12), (9, 12).
+2025-08-12 12:09:21,937 Scanner AI queried for edge (8, 12), (9, 12). High estimate: None
+2025-08-12 12:09:21,937 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,002 UAV moved to passage (11, 12). Estimates can now be obtained for edge (11, 11), (11, 12).
+2025-08-12 12:09:22,002 AI queried for edge (11, 11), (11, 12). Estimate: 0.27590693512132547
+2025-08-12 12:09:22,002 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,028 Scanner UAV moved to passage (10, 12). High-AI estimate available for edge (9, 12), (10, 12).
+2025-08-12 12:09:22,028 Scanner AI queried for edge (9, 12), (10, 12). High estimate: None
+2025-08-12 12:09:22,028 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,093 UAV moved to passage (12, 12). Estimates can now be obtained for edge (11, 12), (12, 12).
+2025-08-12 12:09:22,093 AI queried for edge (11, 12), (12, 12). Estimate: 0.8099715014764605
+2025-08-12 12:09:22,093 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,119 Scanner UAV moved to passage (11, 12). High-AI estimate available for edge (10, 12), (11, 12).
+2025-08-12 12:09:22,119 Scanner AI queried for edge (10, 12), (11, 12). High estimate: None
+2025-08-12 12:09:22,119 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,185 UAV moved to passage (12, 13). Estimates can now be obtained for edge (12, 12), (12, 13).
+2025-08-12 12:09:22,185 AI queried for edge (12, 12), (12, 13). Estimate: 0.2047154892367301
+2025-08-12 12:09:22,185 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,211 Scanner UAV moved to passage (11, 13). High-AI estimate available for edge (11, 12), (11, 13).
+2025-08-12 12:09:22,211 Scanner AI queried for edge (11, 12), (11, 13). High estimate: None
+2025-08-12 12:09:22,211 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,277 UAV moved to passage (13, 13). Estimates can now be obtained for edge (12, 13), (13, 13).
+2025-08-12 12:09:22,277 AI queried for edge (12, 13), (13, 13). Estimate: 0.5864982951324239
+2025-08-12 12:09:22,277 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,302 Scanner UAV moved to passage (12, 13). High-AI estimate available for edge (11, 13), (12, 13).
+2025-08-12 12:09:22,302 Scanner AI queried for edge (11, 13), (12, 13). High estimate: None
+2025-08-12 12:09:22,302 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,368 UAV moved to passage (13, 14). Estimates can now be obtained for edge (13, 13), (13, 14).
+2025-08-12 12:09:22,368 AI queried for edge (13, 13), (13, 14). Estimate: 0.1706338385613974
+2025-08-12 12:09:22,368 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,395 Scanner UAV moved to passage (12, 14). High-AI estimate available for edge (12, 13), (12, 14).
+2025-08-12 12:09:22,395 Scanner AI queried for edge (12, 13), (12, 14). High estimate: None
+2025-08-12 12:09:22,395 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,460 UAV moved to passage (13, 15). Estimates can now be obtained for edge (13, 14), (13, 15).
+2025-08-12 12:09:22,460 AI queried for edge (13, 14), (13, 15). Estimate: 0.47257373162174615
+2025-08-12 12:09:22,460 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,486 Scanner UAV moved to passage (13, 14). High-AI estimate available for edge (12, 14), (13, 14).
+2025-08-12 12:09:22,486 Scanner AI queried for edge (12, 14), (13, 14). High estimate: None
+2025-08-12 12:09:22,486 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,551 UAV moved to passage (13, 16). Estimates can now be obtained for edge (13, 15), (13, 16).
+2025-08-12 12:09:22,551 AI queried for edge (13, 15), (13, 16). Estimate: 0.8073066176531559
+2025-08-12 12:09:22,551 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,577 Scanner UAV moved to passage (13, 15). High-AI estimate available for edge (13, 14), (13, 15).
+2025-08-12 12:09:22,577 Scanner AI queried for edge (13, 14), (13, 15). High estimate: None
+2025-08-12 12:09:22,577 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,644 UAV moved to passage (14, 16). Estimates can now be obtained for edge (13, 16), (14, 16).
+2025-08-12 12:09:22,644 AI queried for edge (13, 16), (14, 16). Estimate: 0.5867554570584074
+2025-08-12 12:09:22,644 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,671 Scanner UAV moved to passage (14, 15). High-AI estimate available for edge (13, 15), (14, 15).
+2025-08-12 12:09:22,671 Scanner AI queried for edge (13, 15), (14, 15). High estimate: None
+2025-08-12 12:09:22,671 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,736 UAV moved to passage (14, 17). Estimates can now be obtained for edge (14, 16), (14, 17).
+2025-08-12 12:09:22,736 AI queried for edge (14, 16), (14, 17). Estimate: 0.09886361283386924
+2025-08-12 12:09:22,736 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,762 Scanner UAV moved to passage (15, 15). High-AI estimate available for edge (14, 15), (15, 15).
+2025-08-12 12:09:22,762 Scanner AI queried for edge (14, 15), (15, 15). High estimate: None
+2025-08-12 12:09:22,762 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,828 UAV moved to passage (15, 17). Estimates can now be obtained for edge (14, 17), (15, 17).
+2025-08-12 12:09:22,828 AI queried for edge (14, 17), (15, 17). Estimate: 0.059731825475524795
+2025-08-12 12:09:22,828 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,853 Scanner UAV moved to passage (16, 15). High-AI estimate available for edge (15, 15), (16, 15).
+2025-08-12 12:09:22,853 Scanner AI queried for edge (15, 15), (16, 15). High estimate: None
+2025-08-12 12:09:22,853 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,919 UAV moved to passage (15, 18). Estimates can now be obtained for edge (15, 17), (15, 18).
+2025-08-12 12:09:22,919 AI queried for edge (15, 17), (15, 18). Estimate: 0.22277894088978248
+2025-08-12 12:09:22,919 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:22,945 Scanner UAV moved to passage (17, 15). High-AI estimate available for edge (16, 15), (17, 15).
+2025-08-12 12:09:22,945 Scanner AI queried for edge (16, 15), (17, 15). High estimate: None
+2025-08-12 12:09:22,945 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,010 UAV moved to passage (16, 18). Estimates can now be obtained for edge (15, 18), (16, 18).
+2025-08-12 12:09:23,010 AI queried for edge (15, 18), (16, 18). Estimate: 0.04941038551550631
+2025-08-12 12:09:23,010 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,036 Scanner UAV moved to passage (17, 16). High-AI estimate available for edge (17, 15), (17, 16).
+2025-08-12 12:09:23,036 Scanner AI queried for edge (17, 15), (17, 16). High estimate: None
+2025-08-12 12:09:23,036 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,102 UAV moved to passage (17, 18). Estimates can now be obtained for edge (16, 18), (17, 18).
+2025-08-12 12:09:23,102 AI queried for edge (16, 18), (17, 18). Estimate: 0.632567876085858
+2025-08-12 12:09:23,102 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,128 Scanner UAV moved to passage (17, 17). High-AI estimate available for edge (17, 16), (17, 17).
+2025-08-12 12:09:23,128 Scanner AI queried for edge (17, 16), (17, 17). High estimate: None
+2025-08-12 12:09:23,128 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,196 UAV moved to passage (18, 18). Estimates can now be obtained for edge (17, 18), (18, 18).
+2025-08-12 12:09:23,196 AI queried for edge (17, 18), (18, 18). Estimate: 0.7718540434339446
+2025-08-12 12:09:23,196 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,225 Scanner UAV moved to passage (17, 18). High-AI estimate available for edge (17, 17), (17, 18).
+2025-08-12 12:09:23,225 Scanner AI queried for edge (17, 17), (17, 18). High estimate: None
+2025-08-12 12:09:23,225 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,292 UAV moved to passage (18, 19). Estimates can now be obtained for edge (18, 18), (18, 19).
+2025-08-12 12:09:23,292 AI queried for edge (18, 18), (18, 19). Estimate: 0.8764530646073266
+2025-08-12 12:09:23,293 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,319 Scanner UAV moved to passage (17, 19). High-AI estimate available for edge (17, 18), (17, 19).
+2025-08-12 12:09:23,319 Scanner AI queried for edge (17, 18), (17, 19). High estimate: None
+2025-08-12 12:09:23,319 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,385 UAV moved to passage (19, 19). Estimates can now be obtained for edge (18, 19), (19, 19).
+2025-08-12 12:09:23,385 AI queried for edge (18, 19), (19, 19). Estimate: 0.06734779214452152
+2025-08-12 12:09:23,385 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,410 Scanner UAV moved to passage (17, 20). High-AI estimate available for edge (17, 19), (17, 20).
+2025-08-12 12:09:23,411 Scanner AI queried for edge (17, 19), (17, 20). High estimate: None
+2025-08-12 12:09:23,411 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,476 UAV moved to passage (20, 19). Estimates can now be obtained for edge (19, 19), (20, 19).
+2025-08-12 12:09:23,476 AI queried for edge (19, 19), (20, 19). Estimate: 0.8635634538906881
+2025-08-12 12:09:23,476 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,503 Scanner UAV moved to passage (17, 21). High-AI estimate available for edge (17, 20), (17, 21).
+2025-08-12 12:09:23,503 Scanner AI queried for edge (17, 20), (17, 21). High estimate: None
+2025-08-12 12:09:23,503 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,568 UAV moved to passage (21, 19). Estimates can now be obtained for edge (20, 19), (21, 19).
+2025-08-12 12:09:23,568 AI queried for edge (20, 19), (21, 19). Estimate: 0.5268876100265477
+2025-08-12 12:09:23,568 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,594 Scanner UAV moved to passage (18, 21). High-AI estimate available for edge (17, 21), (18, 21).
+2025-08-12 12:09:23,594 Scanner AI queried for edge (17, 21), (18, 21). High estimate: None
+2025-08-12 12:09:23,594 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,659 UAV moved to passage (21, 20). Estimates can now be obtained for edge (21, 19), (21, 20).
+2025-08-12 12:09:23,659 AI queried for edge (21, 19), (21, 20). Estimate: 0.8744944162820104
+2025-08-12 12:09:23,659 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,685 Scanner UAV moved to passage (18, 22). High-AI estimate available for edge (18, 21), (18, 22).
+2025-08-12 12:09:23,685 Scanner AI queried for edge (18, 21), (18, 22). High estimate: None
+2025-08-12 12:09:23,685 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,750 UAV moved to passage (22, 20). Estimates can now be obtained for edge (21, 20), (22, 20).
+2025-08-12 12:09:23,750 AI queried for edge (21, 20), (22, 20). Estimate: 0.6528959840125408
+2025-08-12 12:09:23,750 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,775 Scanner UAV moved to passage (19, 22). High-AI estimate available for edge (18, 22), (19, 22).
+2025-08-12 12:09:23,775 Scanner AI queried for edge (18, 22), (19, 22). High estimate: None
+2025-08-12 12:09:23,775 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,840 UAV moved to passage (23, 20). Estimates can now be obtained for edge (22, 20), (23, 20).
+2025-08-12 12:09:23,840 AI queried for edge (22, 20), (23, 20). Estimate: 0.2029258531026138
+2025-08-12 12:09:23,840 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,865 Scanner UAV moved to passage (19, 23). High-AI estimate available for edge (19, 22), (19, 23).
+2025-08-12 12:09:23,865 Scanner AI queried for edge (19, 22), (19, 23). High estimate: None
+2025-08-12 12:09:23,865 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,972 UAV moved to passage (24, 20). Estimates can now be obtained for edge (23, 20), (24, 20).
+2025-08-12 12:09:23,972 AI queried for edge (23, 20), (24, 20). Estimate: 0.8356697913365251
+2025-08-12 12:09:23,972 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:23,998 Scanner UAV moved to passage (20, 23). High-AI estimate available for edge (19, 23), (20, 23).
+2025-08-12 12:09:23,998 Scanner AI queried for edge (19, 23), (20, 23). High estimate: None
+2025-08-12 12:09:23,998 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,062 UAV moved to passage (25, 20). Estimates can now be obtained for edge (24, 20), (25, 20).
+2025-08-12 12:09:24,062 AI queried for edge (24, 20), (25, 20). Estimate: 0.37826290883736174
+2025-08-12 12:09:24,062 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,087 Scanner UAV moved to passage (20, 24). High-AI estimate available for edge (20, 23), (20, 24).
+2025-08-12 12:09:24,087 Scanner AI queried for edge (20, 23), (20, 24). High estimate: None
+2025-08-12 12:09:24,087 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,150 UAV moved to passage (26, 20). Estimates can now be obtained for edge (25, 20), (26, 20).
+2025-08-12 12:09:24,151 AI queried for edge (25, 20), (26, 20). Estimate: 0.34439942580769844
+2025-08-12 12:09:24,151 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,176 Scanner UAV moved to passage (21, 24). High-AI estimate available for edge (20, 24), (21, 24).
+2025-08-12 12:09:24,176 Scanner AI queried for edge (20, 24), (21, 24). High estimate: None
+2025-08-12 12:09:24,176 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,240 UAV moved to passage (27, 20). Estimates can now be obtained for edge (26, 20), (27, 20).
+2025-08-12 12:09:24,240 AI queried for edge (26, 20), (27, 20). Estimate: 0.13392830672791373
+2025-08-12 12:09:24,240 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,265 Scanner UAV moved to passage (22, 24). High-AI estimate available for edge (21, 24), (22, 24).
+2025-08-12 12:09:24,265 Scanner AI queried for edge (21, 24), (22, 24). High estimate: None
+2025-08-12 12:09:24,265 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,351 UAV moved to passage (28, 20). Estimates can now be obtained for edge (27, 20), (28, 20).
+2025-08-12 12:09:24,351 AI queried for edge (27, 20), (28, 20). Estimate: 0.8664931219994443
+2025-08-12 12:09:24,351 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,378 Scanner UAV moved to passage (23, 24). High-AI estimate available for edge (22, 24), (23, 24).
+2025-08-12 12:09:24,378 Scanner AI queried for edge (22, 24), (23, 24). High estimate: None
+2025-08-12 12:09:24,378 Scanner AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,441 UAV moved to passage (29, 20). Estimates can now be obtained for edge (28, 20), (29, 20).
+2025-08-12 12:09:24,441 AI queried for edge (28, 20), (29, 20). Estimate: 0.11920292202211755
+2025-08-12 12:09:24,441 AI could not be queried (edge not selected, not scanned, or already queried).
+2025-08-12 12:09:24,466 Scanner UAV moved to passage (24, 24). High-AI estimate available for edge (23, 24), (24, 24).
+2025-08-12 12:09:24,466 Scanner AI queried for edge (23, 24), (24, 24). High estimate: None
+2025-08-12 12:09:24,466 Scanner AI could not be queried (edge not selected, not scanned, or already queried).

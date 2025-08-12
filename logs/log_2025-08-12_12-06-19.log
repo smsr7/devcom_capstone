@@ -1,0 +1,180 @@
+2025-08-12 12:06:19,671 UAV moved to passage (4, 5). Estimates can now be obtained for edge (4, 5), (5, 5).
+2025-08-12 12:06:19,671 AI queried for edge (4, 5), (5, 5). The estimate was 0.9288040315446918.
+2025-08-12 12:06:19,737 UAV moved to passage (4, 4). Estimates can now be obtained for edge (4, 4), (4, 5).
+2025-08-12 12:06:19,737 AI queried for edge (4, 4), (4, 5). The estimate was 0.7954496801076893.
+2025-08-12 12:06:19,802 UAV moved to passage (4, 3). Estimates can now be obtained for edge (4, 3), (4, 4).
+2025-08-12 12:06:19,802 AI queried for edge (4, 3), (4, 4). The estimate was 0.36324605546659744.
+2025-08-12 12:06:19,866 UAV moved to passage (3, 3). Estimates can now be obtained for edge (3, 3), (4, 3).
+2025-08-12 12:06:19,866 AI queried for edge (3, 3), (4, 3). The estimate was 0.8966934039051943.
+2025-08-12 12:06:19,932 UAV moved to passage (2, 3). Estimates can now be obtained for edge (2, 3), (3, 3).
+2025-08-12 12:06:19,932 AI queried for edge (2, 3), (3, 3). The estimate was 0.9452869817754211.
+2025-08-12 12:06:19,997 UAV moved to passage (1, 3). Estimates can now be obtained for edge (1, 3), (2, 3).
+2025-08-12 12:06:19,997 AI queried for edge (1, 3), (2, 3). The estimate was 0.10715788899713224.
+2025-08-12 12:06:20,062 UAV moved to passage (0, 3). Estimates can now be obtained for edge (0, 3), (1, 3).
+2025-08-12 12:06:20,063 AI queried for edge (0, 3), (1, 3). The estimate was 0.37401345329591046.
+2025-08-12 12:06:20,129 UAV moved to passage (0, 2). Estimates can now be obtained for edge (0, 2), (0, 3).
+2025-08-12 12:06:20,129 AI queried for edge (0, 2), (0, 3). The estimate was 0.13748981198345295.
+2025-08-12 12:06:20,196 UAV moved to passage (1, 2). Estimates can now be obtained for edge (0, 2), (1, 2).
+2025-08-12 12:06:20,196 AI queried for edge (0, 2), (1, 2). The estimate was 0.9733932989577089.
+2025-08-12 12:06:20,263 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 1), (1, 2).
+2025-08-12 12:06:20,263 AI queried for edge (1, 1), (1, 2). The estimate was 0.11920292202211755.
+2025-08-12 12:06:20,329 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:20,329 AI queried for edge (1, 0), (1, 1). The estimate was 0.8616836681560364.
+2025-08-12 12:06:20,395 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:20,395 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:20,461 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 1), (2, 0).
+2025-08-12 12:06:20,461 AI queried for edge (1, 1), (2, 0). The estimate was 0.27127835828473545.
+2025-08-12 12:06:20,526 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:20,526 AI queried for edge (1, 0), (2, 0). The estimate was 0.11920292202211755.
+2025-08-12 12:06:20,592 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 1), (1, 0).
+2025-08-12 12:06:20,592 AI queried for edge (0, 1), (1, 0). The estimate was 0.9649886276055272.
+2025-08-12 12:06:20,656 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:20,656 AI queried for edge (0, 0), (0, 1). The estimate was 0.7606290257855606.
+2025-08-12 12:06:20,722 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:20,722 Human queried for edge (0, 0), (1, 0). The estimate was 0.19440691071828875.
+2025-08-12 12:06:20,787 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:20,787 AI queried for edge (0, 0), (1, 0). The estimate was 0.3017681516968085.
+2025-08-12 12:06:20,908 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:20,908 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:20,974 UAV moved to passage (0, 2). Estimates can now be obtained for edge (0, 1), (0, 2).
+2025-08-12 12:06:20,974 AI queried for edge (0, 1), (0, 2). The estimate was 0.058740084691733196.
+2025-08-12 12:06:21,039 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 1), (0, 2).
+2025-08-12 12:06:21,039 AI could not be queried for edge (0, 1), (0, 2). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,104 UAV moved to passage (1, 1). Estimates can now be obtained for edge (0, 1), (1, 1).
+2025-08-12 12:06:21,104 AI queried for edge (0, 1), (1, 1). The estimate was 0.07844405178083588.
+2025-08-12 12:06:21,171 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:21,171 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,236 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:21,236 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,302 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 1), (2, 0).
+2025-08-12 12:06:21,302 AI could not be queried for edge (1, 1), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,368 UAV moved to passage (3, 0). Estimates can now be obtained for edge (2, 0), (3, 0).
+2025-08-12 12:06:21,368 AI queried for edge (2, 0), (3, 0). The estimate was 0.7718008624223087.
+2025-08-12 12:06:21,433 UAV moved to passage (3, 1). Estimates can now be obtained for edge (3, 0), (3, 1).
+2025-08-12 12:06:21,433 AI queried for edge (3, 0), (3, 1). The estimate was 0.8858971388962728.
+2025-08-12 12:06:21,498 UAV moved to passage (2, 1). Estimates can now be obtained for edge (2, 1), (3, 1).
+2025-08-12 12:06:21,498 AI queried for edge (2, 1), (3, 1). The estimate was 0.03628994252682982.
+2025-08-12 12:06:21,563 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 1), (2, 1).
+2025-08-12 12:06:21,563 AI queried for edge (1, 1), (2, 1). The estimate was 0.058518766459890646.
+2025-08-12 12:06:21,630 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 1), (2, 0).
+2025-08-12 12:06:21,630 AI could not be queried for edge (1, 1), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,701 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:21,701 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,767 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:21,767 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,833 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:21,833 Human could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the human has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,899 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:21,899 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:21,967 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:21,967 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,033 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,033 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,098 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,098 Human queried for edge (0, 0), (0, 1). The estimate was 0.9357222174826094.
+2025-08-12 12:06:22,163 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,163 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,228 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,229 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,295 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,295 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,360 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,360 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,425 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 1), (1, 0).
+2025-08-12 12:06:22,425 AI could not be queried for edge (0, 1), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,552 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,552 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,618 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,618 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,683 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,683 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,748 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,748 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,812 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:22,812 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,877 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,877 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:22,942 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:22,942 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,007 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,007 Human could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the human has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,072 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,072 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,137 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:23,137 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,202 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:23,202 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,268 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,268 Human could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the human has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,333 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,333 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,399 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,399 Human could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the human has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,464 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,464 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,528 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:23,528 Human could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the human has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,594 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 1), (1, 0).
+2025-08-12 12:06:23,594 AI could not be queried for edge (0, 1), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,660 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,660 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,725 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:23,725 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,791 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:23,791 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,856 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 1), (2, 0).
+2025-08-12 12:06:23,856 AI could not be queried for edge (1, 1), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,922 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 1), (2, 0).
+2025-08-12 12:06:23,922 AI could not be queried for edge (1, 1), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:23,987 UAV moved to passage (2, 1). Estimates can now be obtained for edge (1, 1), (2, 1).
+2025-08-12 12:06:23,987 AI could not be queried for edge (1, 1), (2, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,052 UAV moved to passage (2, 0). Estimates can now be obtained for edge (2, 0), (2, 1).
+2025-08-12 12:06:24,052 AI queried for edge (2, 0), (2, 1). The estimate was 0.8405683019461031.
+2025-08-12 12:06:24,175 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:24,175 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,240 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:24,240 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,305 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:24,305 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,369 UAV moved to passage (2, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:24,369 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,435 UAV moved to passage (3, 0). Estimates can now be obtained for edge (2, 0), (3, 0).
+2025-08-12 12:06:24,435 AI could not be queried for edge (2, 0), (3, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,501 UAV moved to passage (2, 0). Estimates can now be obtained for edge (2, 0), (3, 0).
+2025-08-12 12:06:24,501 AI could not be queried for edge (2, 0), (3, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,565 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (2, 0).
+2025-08-12 12:06:24,565 AI could not be queried for edge (1, 0), (2, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,631 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:24,631 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,697 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 1), (1, 1).
+2025-08-12 12:06:24,697 AI could not be queried for edge (0, 1), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,762 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:24,762 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,827 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:24,827 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,893 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:24,893 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:24,958 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:24,958 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,024 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:25,024 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,090 UAV moved to passage (1, 2). Estimates can now be obtained for edge (1, 1), (1, 2).
+2025-08-12 12:06:25,090 AI could not be queried for edge (1, 1), (1, 2). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,156 UAV moved to passage (1, 1). Estimates can now be obtained for edge (1, 1), (1, 2).
+2025-08-12 12:06:25,156 AI could not be queried for edge (1, 1), (1, 2). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,222 UAV moved to passage (1, 0). Estimates can now be obtained for edge (1, 0), (1, 1).
+2025-08-12 12:06:25,222 AI could not be queried for edge (1, 0), (1, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,287 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:25,287 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,353 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:25,353 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,421 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:25,421 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,487 UAV moved to passage (1, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:25,487 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,553 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (1, 0).
+2025-08-12 12:06:25,553 AI could not be queried for edge (0, 0), (1, 0). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,618 UAV moved to passage (0, 1). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:25,618 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2025-08-12 12:06:25,682 UAV moved to passage (0, 0). Estimates can now be obtained for edge (0, 0), (0, 1).
+2025-08-12 12:06:25,682 AI could not be queried for edge (0, 0), (0, 1). This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
