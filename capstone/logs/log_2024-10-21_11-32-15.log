@@ -1,0 +1,5 @@
+2024-10-21 11:32:22,683 Selected edge A, B
+2024-10-21 11:32:26,062 AI could not be queried for edge A, B. This occurs if an edge is not selected, the AI has already been queried, or the UAV has not scanned the current edge.
+2024-10-21 11:32:31,024 UAV moved to passage B. Estimates can now be obtained for edge A, B.
+2024-10-21 11:32:34,323 AI queried for edge A, B. The estimate was 0.85.
+2024-10-21 11:32:35,600 Human queried for edge A, B. The estimate was 0.9.

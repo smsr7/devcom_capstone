@@ -1,0 +1,77 @@
+{
+    "degree" : 6,
+    "num_nodes" : 3500,
+    "mine_likelihood" : 0.4,
+
+
+    "processing_params": {
+        "human_estimate_time": 30,
+        "ai_estimate_time": 5,
+        "UGV_traversal_time": 20,
+        "UGV_clear_time": 60,
+        "UAV_traversal_time": 1
+    },
+
+    "terrain_types" : ["Grassy", "Rocky", "Sandy", "Wooded", "Swampy"],
+    "transition_matrix" : [
+            [0.5, 0.125, 0.125, 0.125, 0.125], 
+            [0.15, 0.6, 0.15, 0.1, 0.0],
+            [0.05, 0.2, 0.6, 0.1, 0.05],
+            [0.2, 0.15, 0.05, 0.5, 0.1],
+            [0.15, 0.1, 0.1, 0.1, 0.55]
+        ],
+
+    "precipitation_params" : {
+            "Grassy": {
+                "rain_probability": 0.1,
+                "scale": 10
+            },
+            "Rocky": {
+                "rain_probability": 0.05,
+                "scale": 5
+            },
+            "Sandy": {
+                "rain_probability": 0.02,
+                "scale": 4
+            },
+            "Wooded": {
+                "rain_probability": 0.15,
+                "scale": 16
+            },
+            "Swampy": {
+                "rain_probability": 0.15,
+                "scale": 16
+            }
+        },
+
+    "temp_params" : {
+            "Grassy": {"base_temp": 20, "diurnal_variation": 10, "precipitation_effect": 0.2},
+            "Rocky": {"base_temp": 15, "diurnal_variation": 8, "precipitation_effect": 0.3},
+            "Sandy": {"base_temp": 25, "diurnal_variation": 12, "precipitation_effect": 0.1},
+            "Wooded": {"base_temp": 18, "diurnal_variation": 6, "precipitation_effect": 0.25},
+            "Swampy": {"base_temp": 22, "diurnal_variation": 5, "precipitation_effect": 0.15}
+        },
+
+    "wind_params" : {
+            "Grassy": {"base_wind": 10, "time_variation": 5, "precipitation_effect": 0.2},
+            "Rocky": {"base_wind": 15, "time_variation": 4, "precipitation_effect": 0.3},
+            "Sandy": {"base_wind": 12, "time_variation": 6, "precipitation_effect": 0.1},
+            "Wooded": {"base_wind": 8, "time_variation": 3, "precipitation_effect": 0.25},
+            "Swampy": {"base_wind": 6, "time_variation": 2, "precipitation_effect": 0.15}
+        },
+
+    "visibility_params" : { 
+            "Grassy": {"max_visibility": 100, "time_effect": 5, "precipitation_effect": 2},
+            "Rocky": {"max_visibility": 100, "time_effect": 6, "precipitation_effect": 2.5},
+            "Sandy": {"max_visibility": 100, "time_effect": 4, "precipitation_effect": 1.5},
+            "Wooded": {"max_visibility": 90, "time_effect": 8, "precipitation_effect": 4},
+            "Swampy": {"max_visibility": 90, "time_effect": 10, "precipitation_effect": 5}
+        },
+
+    "accuracy_params" : {
+        "human_accuracy_param": 0.3,
+        "human_threshold_param": 0.0, 
+        "ai_accuracy_param": 0.55, 
+        "ai_threshold_param": 0.5
+        }
+}
